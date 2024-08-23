@@ -1,4 +1,4 @@
-# credit_card_prediction_fradulent
+# credit_card_prediction_fraudulent
 
 **source file: creditcard.csv**
 
